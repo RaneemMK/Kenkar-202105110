@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(250, 250, 250);  /* -------DONE---------*/
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  h1{
+      color: rgb(57, 62, 92); /* -------DONE---------*/
+      text-align: center;  
+  }
+  h2{
+    border-bottom-width: 2px;  
+    border-bottom-style: solid;
+    border-bottom-color: gray; /* -------DONE---------*/
+    padding-bottom: 10px;
+  }
+  
+  .firstDiv {
+    background-color: rgb(27,26,26);/* -------DONE---------*/
+    padding: 50px 100px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+    width: 500px;
+    height: auto;
+    margin: 0 ;
+    margin-left: 430px;
+    border-radius: 25px; /* -------DONE---------*/
+  }
+  
+  input {
+    margin-right: 2px;
+    padding-top: 7px;
+    padding-left: 2px;
+    border-style: double;
+    background-color: rgb(236, 236, 236);  /* -------DONE---------*/
+    border-radius: 6px;
+    
+  }
+  
+  .addButton {
+   padding-left: 23px;
+   padding-right: 22px;
+   padding-top: 8px;
+   padding-bottom: 4px;
+   margin-left: 50px;
+   background-color: rgb(18, 141, 212, 0.801);/* -------DONE---------*/
+   border-radius: 6px;
+   text-align:left;
+  }
+  
+  
